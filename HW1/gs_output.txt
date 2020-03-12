@@ -1,0 +1,6 @@
+C:\Python27\python.exe D:/CSPython/HW1/gs.py
+{'amy': 'xavier', 'clare': 'zeus', 'bertha': 'yancey'}
+{'amy': 'xavier', 'bertha': 'yancey'}
+{'amy': 'zeus', 'clare': 'yancey', 'bertha': 'xavier'}
+
+Process finished with exit code 0

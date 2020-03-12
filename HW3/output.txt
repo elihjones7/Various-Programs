@@ -1,0 +1,9 @@
+C:\Python27\python.exe D:/CSPython/HW3/HW3.py
+{'a': (datetime.time(9, 0), datetime.time(10, 30)), 'c': (datetime.time(9, 0), datetime.time(10, 30)), 'b': (datetime.time(9, 0), datetime.time(12, 30)), 'e': (datetime.time(11, 0), datetime.time(14, 0)), 'd': (datetime.time(11, 0), datetime.time(12, 30)), 'g': (datetime.time(13, 0), datetime.time(14, 30)), 'f': (datetime.time(13, 0), datetime.time(14, 30)), 'i': (datetime.time(15, 0), datetime.time(16, 30)), 'h': (datetime.time(14, 0), datetime.time(16, 30)), 'j': (datetime.time(15, 0), datetime.time(16, 30))}
+{1: ('a', 'd', 'f', 'i'), 2: ('c', 'e', 'h'), 3: ('b', 'g', 'j')}
+There are not enough rooms!
+{'CS 4063': (datetime.time(12, 30), datetime.time(14, 30)), 'CS 1043': (datetime.time(9, 30), datetime.time(11, 0)), 'CS 3353': (datetime.time(11, 0), datetime.time(12, 0)), 'CS 3003': (datetime.time(8, 15), datetime.time(11, 30)), 'CS 4253': (datetime.time(12, 0), datetime.time(16, 0)), 'CS 4013': (datetime.time(13, 0), datetime.time(14, 45)), 'CS 4163': (datetime.time(14, 0), datetime.time(16, 30)), 'CS 2003': (datetime.time(10, 30), datetime.time(12, 0)), 'CS 4123': (datetime.time(14, 0), datetime.time(15, 0)), 'CS 2123': (datetime.time(11, 15), datetime.time(12, 45))}
+{'KEH M1': ('CS 1043', 'CS 3353', 'CS 4063'), 'KEH U2': ('CS 4163',), 'KEH U1': ('CS 3003', 'CS 4253'), 'KEH M3': ('CS 2123', 'CS 4123'), 'KEH M2': ('CS 2003', 'CS 4013')}
+There are not enough rooms!
+
+Process finished with exit code 0
